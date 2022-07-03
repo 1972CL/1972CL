@@ -9,3 +9,4 @@
 You can click the Preview link to take a look at your changes.
 --->https://www.sololearn.com/certificates/course/en/25926841/1024/landscape/png
 https://www.sololearn.com/Certificate/1014-25926841/pdf/
+https://www.sololearn.com/Certificate/1023-25926841/pdf/
